@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: abchexuzheng@163.com
 description: "关于前端与设计、黑客与画家 | 贺许正，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hxz贺许正 的个人博客，与你一起发现更大的世界。"
 keyword: "贺许正, Hxz贺许正, Hxz, 贺许正的博客, Hxz Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://hexuzheng.me"              # your host, for absolute URL
+url: "https://abchexuzheng.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     hexuzheng
-zhihu_username:     abchexuzheng
+# weibo_username:     hexuzheng
+# zhihu_username:     abchexuzheng
 github_username:    abchexuzheng
 # twitter_username:   huxpro
 #facebook_username:  huxpro
